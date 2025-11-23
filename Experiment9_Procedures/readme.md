@@ -124,3 +124,4 @@ Multiplication table of 5:
 
 ## RESULT
 Thus, the PL/SQL programs using procedures and functions were written, compiled, and executed successfully.
+ 
